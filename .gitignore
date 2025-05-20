@@ -5,4 +5,4 @@ __pycache__/
 *.pyo
 *.pyd
 cache/
-client_secret.json
+client_secrets.json
